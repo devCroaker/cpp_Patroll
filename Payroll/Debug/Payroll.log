@@ -1,0 +1,101 @@
+﻿  Employee.cpp
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.h(8): error C2143: syntax error: missing ';' before '*'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.h(8): error C2238: unexpected token(s) preceding ';'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(11): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(11): error C3646: 'name': unknown override specifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(13): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(13): error C3646: 'address': unknown override specifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(15): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(15): error C3646: 'designation': unknown override specifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(22): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(22): error C2061: syntax error: identifier 'string'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\main.h(11): error C2039: 'filesystem': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\experimental\filesystem(28): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\main.h(11): error C2878: 'filesystem': a namespace or class of this name does not exist
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.cpp(7): error C2511: 'Employee::Employee(int,std::string,int *,std::string,int [],std::string,char,double,double)': overloaded member function not found in 'Employee'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(7): note: see declaration of 'Employee'
+  Main.cpp
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.h(8): error C2143: syntax error: missing ';' before '*'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.h(8): error C2238: unexpected token(s) preceding ';'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(11): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(11): error C3646: 'name': unknown override specifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(13): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(13): error C3646: 'address': unknown override specifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(15): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(15): error C3646: 'designation': unknown override specifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(22): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(22): error C2061: syntax error: identifier 'string'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\main.h(11): error C2039: 'filesystem': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\experimental\filesystem(28): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\main.h(11): error C2878: 'filesystem': a namespace or class of this name does not exist
+  Payroll.cpp
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.h(8): error C2143: syntax error: missing ';' before '*'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.h(8): error C2238: unexpected token(s) preceding ';'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(11): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(11): error C3646: 'name': unknown override specifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(13): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(13): error C3646: 'address': unknown override specifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(15): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(15): error C3646: 'designation': unknown override specifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(22): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(22): error C2061: syntax error: identifier 'string'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\main.h(11): error C2039: 'filesystem': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\experimental\filesystem(28): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\main.h(11): error C2878: 'filesystem': a namespace or class of this name does not exist
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.cpp(5): error C2653: 'fs': is not a class or namespace name
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.cpp(5): error C3861: 'directory_iterator': identifier not found
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.cpp(6): error C3312: no callable 'begin' function found for type 'unknown-type'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.cpp(6): error C3312: no callable 'end' function found for type 'unknown-type'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.cpp(6): error C2065: 'p': undeclared identifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.cpp(6): error C2228: left of '.path' must have class/struct/union
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.cpp(6): note: type is 'unknown-type'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.cpp(8): error C3078: array size must be specified in new expressions
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.cpp(9): error C2065: 'employees': undeclared identifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.cpp(9): error C3078: array size must be specified in new expressions
+  Source.cpp
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.h(8): error C2143: syntax error: missing ';' before '*'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.h(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\payroll.h(8): error C2238: unexpected token(s) preceding ';'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(11): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(11): error C3646: 'name': unknown override specifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(13): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(13): error C3646: 'address': unknown override specifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(15): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(15): error C3646: 'designation': unknown override specifier
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(22): error C2039: 'string': is not a member of 'std'
+  c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\predefined c++ types (compiler internal)(254): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\employee.h(22): error C2061: syntax error: identifier 'string'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\main.h(11): error C2039: 'filesystem': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\experimental\filesystem(28): note: see declaration of 'std'
+c:\users\alexander lindahl.jeromes\source\repos\payroll\payroll\main.h(11): error C2878: 'filesystem': a namespace or class of this name does not exist
+  Generating Code...
